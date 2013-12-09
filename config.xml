@@ -45,7 +45,7 @@
 <preference name="splash-screen-duration" value="5000" />
 
 
-<preference name="phonegap-version" value="2.3.0" />
+<preference name="phonegap-version" value="2.8.0" />
 
 
 <plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
